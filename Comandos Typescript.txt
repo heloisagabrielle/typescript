@@ -1,0 +1,15 @@
+Comandos para manipulação
+-instala o modulo: npm install typescript
+-Abre o tsconfig.json: tsc --init 
+-converte para .js: tsc nomearquivo.ts 
+-roda o ts watch: ctrl+shift+b
+-roda o ts watch direto no terminal: tsc --watch nomearquivo.ts
+-roda o arquivo .js: node nomearquivo.js
+
+Tipos de dados
+-number
+-boolean
+-tupla
+-string
+-Array
+-Objeto
